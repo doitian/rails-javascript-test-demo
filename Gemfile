@@ -46,4 +46,7 @@ end
 
 group :development, :test do
   gem 'jasmine-rails'
+  gem 'konacha'
+  gem 'selenium-webdriver'
+  # gem 'poltergeist'
 end
